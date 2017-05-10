@@ -5,5 +5,5 @@ OBJECT_SHARED Models/Communications/vordme_1.xml 48.815 54.403333 59.67 180
 OBJECT_SHARED Models/Airport/marker.ac 48.778336 54.375 73.28 180
 OBJECT_SHARED Models/Airport/marker.ac 48.833333 54.428333 52.94 180
 OBJECT_SHARED Models/Airport/marker.ac 48.858333 54.453333 48.44 180
-OBJECT_SHARED Models/Airport/localizer.xml 48.778333 54.375 73.28 299.79
-OBJECT_SHARED Models/Airport/localizer.xml 48.831667 54.428333 52.51 121.62
+OBJECT_SHARED Models/Airport/localizer.xml 48.778333 54.375 73.28 147.66
+OBJECT_SHARED Models/Airport/localizer.xml 48.831667 54.428333 52.51 327.62
